@@ -1,0 +1,12 @@
+# Technical Debt Analyzer - Rule-Based Version
+# No LLM dependencies required
+
+# Core dependencies (none required - uses only Python stdlib)
+# This tool uses only Python standard library modules
+
+# Development dependencies (optional)
+pytest>=7.0.0
+pytest-cov>=4.0.0
+black>=23.0.0
+flake8>=6.0.0
+mypy>=1.0.0
